@@ -35,9 +35,18 @@ const Navbar = () => {
           Log In/ Register
         </a>
         <div />
-        <a href="/" className="p__opensans">
-          Book Table
-        </a>
+        <a
+  href="mailto:LahiriR@indianoil.in?subject=Food%20Order&body=Hello,%20I%20would%20like%20to%20order"
+  className="p__opensans"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Order Food
+</a>
+
+
+
+
       </div>
       <div className="app__navbar-smallscreen">
         <GiHamburgerMenu
