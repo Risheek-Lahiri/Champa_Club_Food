@@ -31,12 +31,12 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="app__navbar-login">
-        <a href="#login" className="p__opensans">
-          Log In/ Register
+        <a href="mailto:iamrsk12@gmail.com?subject=BOOK%20TABLE&body=Hello,%20I%20would%20like%20to%20Book%20Table%0AFood%20item:%0AMobile%20no:" className="p__opensans">
+          Book Table
         </a>
         <div />
         <a
-  href="mailto:LahiriR@indianoil.in?subject=Food%20Order&body=Hello,%20I%20would%20like%20to%20order"
+  href="mailto:iamrsk12@gmail.com?subject=FOOD%20ORDER&body=Hello,%20I%20would%20like%20to%20order%0AFood%20item:%0ADelhivery%20Address:%0AMobile%20no:"
   className="p__opensans"
   target="_blank"
   rel="noopener noreferrer"
